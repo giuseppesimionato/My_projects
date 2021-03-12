@@ -1,7 +1,7 @@
 UART INTERFACE WITH A FIR FILTER ON AN FPGA
 -------------------------------------------
 
-This report presents the implementation of an UART (Universal
+This work presents the implementation of an UART (Universal
 Asynchronous Receiver-Transmitter) interface combined with a FIR (Finite
 Impulse Response) Filter on an FPGA (Filed-Programmable Gate Array). The
 FPGA is an Integrated Circuit designed to be configured after
