@@ -7,3 +7,5 @@
 - Approaches to semantic segmentation of aeral images
 - Low complexity CNN for time series classification
 - Sienergy: progetto finalista hackaton 2021 Hacking the city, challenge energia
+- Analysis of Covid-19 papers using clusters of computers (DASK)
+- Deep learning programs using pytorch (CNN, GAN, VAE, DQN)
